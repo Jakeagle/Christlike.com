@@ -140,7 +140,7 @@ hr {
 }
 
 .icon {
-  display: block;
+  display: inline-block;
   margin: auto;
   font-size: 5rem;
   padding: 5rem, 0, 5rem, 0;
